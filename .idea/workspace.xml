@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eaa9e7d-898c-4a1e-b555-da0bcd031f87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A complex expression/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A complex expression/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A complex expression/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A complex expression/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A simple expression/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A simple expression/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A simple expression/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/A simple expression/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/An empty list_/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/An empty list_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/An empty list_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/An empty list_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculate a remainder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculate a remainder/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculate a remainder/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculate a remainder/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating S V P/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating S V P/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating S V P/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating S V P/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating an expression/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating an expression/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating an expression/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Calculating an expression/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Captain/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Captain/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Captain/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Captain/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Cook book/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Cook book/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Cook book/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Cook book/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Desks/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Desks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Desks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Desks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Difference of times/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Difference of times/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Difference of times/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Difference of times/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Different alphabets/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Different alphabets/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Different alphabets/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Different alphabets/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Divide nuts equally between squirrels/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Divide nuts equally between squirrels/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Divide nuts equally between squirrels/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Divide nuts equally between squirrels/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Factorial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Factorial/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Factorial/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Factorial/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fahrenheit/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fahrenheit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fahrenheit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fahrenheit/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Favor/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Favor/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Favor/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Favor/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find even/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find even/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find even/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find even/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find the third number/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find the third number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find the third number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Find the third number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fix str/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fix str/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fix str/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Fix str/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Focus on the positive/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Focus on the positive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Focus on the positive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Focus on the positive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Good rest on vacation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Good rest on vacation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Good rest on vacation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Good rest on vacation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Guessing game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Guessing game/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Guessing game/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Guessing game/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Half-life/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Half-life/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Half-life/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Half-life/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Healthy sleep/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/How many nuts will be left after division/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/How many nuts will be left after division/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/How many nuts will be left after division/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/How many nuts will be left after division/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/In the middle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/In the middle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/In the middle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/In the middle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Leap Year/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Leap Year/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Leap Year/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Leap Year/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/List from string/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/List from string/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/List from string/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/List from string/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Lucky ticket/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Lucky ticket/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Lucky ticket/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Lucky ticket/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Make the function work/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Make the function work/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Make the function work/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Make the function work/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Miles away/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Miles away/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Miles away/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Miles away/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Minimum and maximum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Minimum and maximum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Minimum and maximum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Minimum and maximum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Modifying data/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Modifying data/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Modifying data/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Modifying data/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Movie theater/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Movie theater/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Movie theater/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Movie theater/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Order_/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Order_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Order_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Order_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Plurals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Plurals/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Plurals/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Plurals/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Rich man's world/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Rich man's world/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Rich man's world/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Rich man's world/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Savings account/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Savings account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Savings account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Savings account/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Single-element list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Single-element list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Single-element list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Single-element list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Spellchecker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Spellchecker/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Spellchecker/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Spellchecker/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Square up/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Square up/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Square up/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Square up/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/String length/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/String length/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/String length/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/String length/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Sum of numbers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Sum of numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Sum of numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Sum of numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Tail/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Tail/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Tail/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Tail/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The Sum of 2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The Sum of 2/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The Sum of 2/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The Sum of 2/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The sum of digits/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The sum of digits/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The sum of digits/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The sum of digits/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/This is Python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/This is Python/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/This is Python/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/This is Python/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Underworld/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Underworld/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Underworld/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Underworld/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Very odd/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Very odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Very odd/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Very odd/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Young and beautiful/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Young and beautiful/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Young and beautiful/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Young and beautiful/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Hello! What’s your name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/How old are you/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/How old are you/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Let’s count_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Let’s count_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/What's my name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/What's my name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/bot/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A lot of nested lists/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A lot of nested lists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A lot of nested lists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A lot of nested lists/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A mean of n/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A mean of n/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A mean of n/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A mean of n/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A pyramid_/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A pyramid_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A pyramid_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A pyramid_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A very nested list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A very nested list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A very nested list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/A very nested list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Accessing elements of a matrix/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Accessing elements of a matrix/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Accessing elements of a matrix/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Accessing elements of a matrix/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boundary/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boundary/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boundary/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boundary/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Calculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Computer hours/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Computer hours/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Computer hours/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Computer hours/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Conditions   nested lists/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Conditions   nested lists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Conditions   nested lists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Conditions   nested lists/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Coordinates/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Coordinates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Coordinates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Coordinates/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Else comprehension/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Else comprehension/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Else comprehension/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Else comprehension/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find the length/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find the length/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find the length/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find the length/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find words/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find words/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find words/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Find words/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/FizzBuzz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/FizzBuzz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/FizzBuzz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/FizzBuzz/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Flip/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Flip/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Flip/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Flip/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Good programmer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Good programmer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Good programmer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Good programmer/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Healthy sleep/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lexical reduplication/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lexical reduplication/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lexical reduplication/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lexical reduplication/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/List from input/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/List from input/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/List from input/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/List from input/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Long live the king/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Long live the king/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Long live the king/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Long live the king/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lucky 7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lucky 7/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lucky 7/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Lucky 7/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Menu/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Menu/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Menu/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Menu/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Odd numbers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Odd numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Odd numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Odd numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Particles/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Particles/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Particles/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Particles/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Plus one/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Plus one/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Plus one/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Plus one/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poetry/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poetry/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poetry/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poetry/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Positive, Negative or Zero/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Positive, Negative or Zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Positive, Negative or Zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Positive, Negative or Zero/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poster artist/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poster artist/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poster artist/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Poster artist/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Preprocessing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Preprocessing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Preprocessing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Preprocessing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Print a sign/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Print a sign/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Print a sign/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Print a sign/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running average/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running average/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running average/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running average/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running total/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running total/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running total/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Running total/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Speech generation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Speech generation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Speech generation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Speech generation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tail/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tail/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tail/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tail/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Taking turns/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Taking turns/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Taking turns/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Taking turns/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tennis tournament/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tennis tournament/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tennis tournament/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Tennis tournament/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The average of all numbers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The average of all numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The average of all numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The average of all numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The farm/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The farm/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The farm/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The farm/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Vowel count/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Vowel count/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Vowel count/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Vowel count/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/What day is it/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/What day is it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/What day is it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/What day is it/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Word list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Word list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Word list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Word list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/snake_case/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/snake_case/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/snake_case/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/snake_case/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../String/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n2wL9o7W6lxrTfIXCnddD7PH3H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/store/views" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Annaldas\PycharmProjects\Eshop\store\views" />
+      <recent name="C:\Users\Annaldas\PycharmProjects\Eshop\store\models" />
+      <recent name="C:\Users\Annaldas\PycharmProjects\Eshop\store\templatetags" />
+      <recent name="C:\Users\Annaldas\PycharmProjects\Eshop\store" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/store/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eaa9e7d-898c-4a1e-b555-da0bcd031f87" name="Default Changelist" comment="" />
+      <created>1610601434385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610601434385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612331965422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612331965422" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1612365264019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612365264019" />
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom" timestamp="1612618699884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612618699883" />
+    <state width="1513" height="210" key="GridCell.Tab.0.center" timestamp="1612618699883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612618699883" />
+    <state width="1513" height="210" key="GridCell.Tab.0.left" timestamp="1612618699883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612618699883" />
+    <state width="1513" height="210" key="GridCell.Tab.0.right" timestamp="1612618699883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612618699883" />
+    <state x="276" y="56" key="SettingsEditor" timestamp="1613053796264">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="276" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613053796264" />
+    <state x="479" y="11" width="578" height="801" key="find.popup" timestamp="1612430009990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="11" width="578" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1612430009990" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1612618697570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612618697570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/store/views/checkout.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Eshop/wsgi.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
